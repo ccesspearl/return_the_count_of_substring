@@ -10,3 +10,5 @@ given_string = "Emma is good developer. Emma is a writer"
 count_emma_string= given_string.count("Emma")
 
 # Print the results 
+print("Given string:", given_string)
+print("Emma appeared", count_emma_string, "times")
