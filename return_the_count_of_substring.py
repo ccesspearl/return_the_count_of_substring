@@ -7,4 +7,6 @@
 given_string = "Emma is good developer. Emma is a writer"
 
 # Use .count() to count "Emma" 
+count_emma_string= given_string.count("Emma")
+
 # Print the results 
